@@ -1,2 +1,2 @@
 # CS465
-GMU-CS465-Computer Systems Architecture
+CS465-Computer Systems Architecture
